@@ -1,4 +1,4 @@
-## Olá, eu sou oThalison Moreira, é sou programação e UX/UI!
+## Olá, eu sou o Thalison Moreira, é sou programação e UX/UI!
 
 <div align="center">
   <a href="https://github.com/imthalison">
